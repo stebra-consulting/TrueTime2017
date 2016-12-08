@@ -31,6 +31,7 @@
         <p id="message">
             <!-- The following content will be replaced with the user name when you run the app - see App.js -->
             <h1>Hello World </h1>
+            <h2>Test</h2>
         </p>
     </div>
 

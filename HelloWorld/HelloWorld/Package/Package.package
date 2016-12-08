@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="fe307898-678b-4603-a30f-75c8041963a0" 
+        solutionId="fe307898-678b-4603-a30f-75c8041963a0" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="HelloWorld"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="6a9f632a-f17d-4c87-b308-1bdcbacc6872" />
+  </features>
+</package>
